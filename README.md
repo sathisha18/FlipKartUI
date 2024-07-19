@@ -90,4 +90,4 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://www.linkedin.com/in/dhananjay-kumar-verma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-kumar-verma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
